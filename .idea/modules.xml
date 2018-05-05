@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/../../PP/WinPeter/.idea/WinPeter.iml" filepath="$PROJECT_DIR$/../../PP/WinPeter/.idea/WinPeter.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/django_poller.iml" filepath="$PROJECT_DIR$/.idea/django_poller.iml" />
-    </modules>
-  </component>
-</project>
