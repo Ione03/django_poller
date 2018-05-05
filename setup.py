@@ -15,7 +15,7 @@ setup(
     license='MIT License',  # example license
     description='A dynamic Django Poll app',
     long_description=README,
-    url='',
+    url='https://github.com/philsupertramp/django_poller',
     author='Philipp Zettl',
     author_email='zettl.philipp@gmail.com',
     classifiers=[
