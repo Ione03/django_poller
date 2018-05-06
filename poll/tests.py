@@ -127,6 +127,10 @@ class PollTestCase(TestCase):
         UserAnswer.objects.create(question=q2, answer=[a1, a2])
 
     def test_objects(self):
+        """
+        TODO: edit to assertQuerysetEqual test
+        :return:
+        """
         question = Question.objects.get(question='Test3')
         answer = Answer.objects.filter(answer='predefined 1')
         answers = question.get_answers()
