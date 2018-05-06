@@ -12,7 +12,7 @@ setup(
     version='0.1',
     packages=find_packages(),
     include_package_data=True,
-    license='MIT License',  # example license
+    license='MIT License',
     description='A dynamic Django Poll app',
     long_description=README,
     url='https://github.com/philsupertramp/django_poller',
